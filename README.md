@@ -1,4 +1,4 @@
-The interview questions will be divided into 4 categories (6 Javascript, 6 Python, 3 SQL and 3 Data).
+The interview questions will be divided into 4 categories (Javascript, Python, SQL and Data).
 
 For the data oriented questions, please create a new source file in that directory.
 

@@ -6,4 +6,4 @@ Important: Download or clone the repository locally, complete as many questions 
 
 Please do not fork, post a pull request, or in any other way publicly expose your answers.
 
-Any vagueness in the questions or difficulty that you encounter reproducing the source locally and getting it to run is a useful and intentional part of the evaluation, as such, while feedback is always appreciated, candidates experiencing difficulty should attempt to work through the challenge using the resources they would use to navigate any other individual challenge rather than sending us a request for assistance.
+Any questions or problems that you've encounter reproducing the source locally or getting it to run is a useful and intentional part of the evaluation. Candidates are recommended to try to resolve the issues, rather than asking for assistance. 
